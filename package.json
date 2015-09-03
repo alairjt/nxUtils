@@ -4,7 +4,7 @@
   "description": "A small library providing utility methods to Nexxera Generators",
   "main": "index.js",
   "scripts": {
-    "test": "echo "Error: notestspecified" && exit 1"
+    "test": "echo 'Error: notestspecified' && exit 1"
   },
   "repository": {
     "type": "git",
