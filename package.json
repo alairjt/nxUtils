@@ -1,0 +1,26 @@
+{
+  "name": "nxUtils",
+  "version": "0.0.1",
+  "description": "A small library providing utility methods to Nexxera Generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo "Error: notestspecified" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alairjt/nxUtils.git"
+  },
+  "keywords": [
+    "nxUtils"
+  ],
+  "author": "Alair Tavares <alairjt@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/alairjt/nxUtils/issues"
+  }
+}
