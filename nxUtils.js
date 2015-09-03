@@ -33,9 +33,6 @@
 "\n\n";
     };
 
-    module.exports = function () {
-        return {
-            nexxSay: nexxSay
-        };
-    };
+    module.exports = {};
+    module.exports.nexxSay = nexxSay;
 })();

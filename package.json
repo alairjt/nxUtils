@@ -1,7 +1,10 @@
 {
   "name": "nx-utils",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "A small library providing utility methods to Nexxera Generators",
+  "files": [
+    "index.js"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo 'Error: notestspecified' && exit 1"
