@@ -1,5 +1,5 @@
 {
-  "name": "nxUtils",
+  "name": "nx-utils",
   "version": "0.0.1",
   "description": "A small library providing utility methods to Nexxera Generators",
   "main": "index.js",
