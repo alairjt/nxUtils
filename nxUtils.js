@@ -33,6 +33,5 @@
 "\n\n";
     };
 
-    module.exports = {};
-    module.exports.nexxSay = nexxSay;
+    module.exports = {nexxSay: nexxSay};
 })();
