@@ -19,7 +19,7 @@
 "\n                   ./shhhys/.   ./++oo:`          .+++  " +
 "\n                     `-oyyhhy+:/++os+.              .-. " +
 "\n                        .+syhmmdyss:`                   " +
-"\n                          :hddmmNd/         Bem vindo ao " + chalk.red(appName) +
+"\n                          :hddmmNd/         Welcome to " + chalk.red(appName) +
 "\n                        .+ssydmmhyyo.                   " +
 "\n                     -+sssyyyoosyyys/`                  " +
 "\n                   `-+yyyyyyo- `/osyyyo.                " +
